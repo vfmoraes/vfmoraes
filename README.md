@@ -5,7 +5,7 @@ I'm a Computer Science student at the Pontifical Catholic University of Minas Ge
 
 ---------------------------------------------------------------
 
-### I have some experience with the following programming languages:
+### I have some experience with the following programming languages, designing, and development tools:
 <div>
   <img width='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
   <img width='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
