@@ -9,5 +9,5 @@ I'm a Computer Science student at the Pontifical Catholic University of Minas Ge
   <img width='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
   <img width='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   <img width='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
-  <img width='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-plain.svg" />
+  <img width='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" /> 
 </div>
