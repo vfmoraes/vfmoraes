@@ -1,7 +1,7 @@
 # **Welcome to my Profile 👋🏼**
 
 ### About me:
-I'm a Computer Science student at the Pontifical Catholic University of Minas Gerais. I strive every day to become a more experienced developer and always try to learn new things!
+- I'm a Computer Science student at the Pontifical Catholic University of Minas Gerais. I strive every day to become a more experienced developer and always try to learn new things!
 
 ---------------------------------------------------------------
 
