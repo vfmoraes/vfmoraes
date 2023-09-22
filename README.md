@@ -26,5 +26,4 @@ Here are some of the programming languages and tools I've worked with:
 <br>
   <p>🌐 Additionally, I have experience in web development, mobile app development, and more!</p>
   <p>Feel free to connect, collaborate, or reach out for any tech-related discussions or projects. Let's code the future together! 🌟</p>
-</br>
 
